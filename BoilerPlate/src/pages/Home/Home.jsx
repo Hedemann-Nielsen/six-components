@@ -13,7 +13,7 @@ const myArray = [
 export const Home = () => {
   return (
 <main>
-  <h1>Main Component</h1>
+  <h1>Home Component</h1>
   <Component6 data={myArray}></Component6>
 </main>
   );
